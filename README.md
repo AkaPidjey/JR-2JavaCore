@@ -62,12 +62,42 @@ ____________________________________________________
 #### [Task54-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/497afe62bd6ee257df6a5623930e5ff42dc00f05) Ненужные абстракции # 1231.
 #### [Task55-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/fdbfe4309fca903408775c338f91a0f2067d6ed3) Нужно добавить в программу новую функциональность # 1232.
 #### [Task56-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/b81dd9e3b541cd40bf30faa2a5af03adbc66d7f4) Изоморфы наступают # 1233.
-#### [Task57-->]()
-#### [Task58-->]()
-#### [Task59-->]()
-#### [Task60-->]()
 ____________________________________________________
 ### Level#3 Интерфейсы. Сравнение с абстрактным классом. Множественное наследование:
+#### [Task57-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/86522c273e667fe1beb905f3ca16698a4931d09a) Пиво # 1301.
+#### [Task58-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/e62b066dfa191df1825ee6ae5f1c86397833fedd) Возвращение # 1302.
+#### [Task59-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/7355910b10cdbaf20c6556f09a4868a540943599) Пиво с колой не мешать # 1303.
+#### [Task60-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/87fb17bbf4e05cf97271bb5542c3247eb9bf30fa) Selectable и Updatable # 1304.
+#### [Task61-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/91fd5e75c31176594273c277deed75bc292884bc) Четыре ошибки # 1305.
+#### [Task62-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/97bed4d1df7d37df63cabbef4114f408a93e88de) Баг в initializeIdAndName # 1306.
+#### [Task63-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/d34322b94b147c93f16410bacad1cbde4575fc6a) Параметризованый интерфейс # 1307.
+#### [Task64-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/eaafefcb3f40f877935eb8efc7db9369dcf205dd) Эй, ты там живой? # 1308.
+#### [Task65-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/9fff9279e8ed88d9ad5653db7edae58d157f3319) Всё, что движется # 1309.
+#### [Task66-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/93a45c8318ed59da0f1ec01c2294828f48ee5973) Это кто там такой умный? # 1310.
+#### [Task67-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/a939363432f754a219e77b004db8a27f1af1d1c5) Нанимаем переводчика # 1311.
+#### [Task68-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/c0790c2fbf57089b94d4a54fb97b5e798f0121ea) Код сам не исправится # 1312.
+#### [Task69-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/d8c492e9c279607c5bf2494cdabef1c4286fc8b4) Лисица — это такое животное # 1313.
+#### [Task70-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/f8ee694585c297e303947a21fbadfa12cd4da61c) Большая лисица — это такая лисица # 1314.
+#### [Task71-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/eb29343b763caecc3d48627619b53de417cedb0f) Том, Джерри и Спайк # 1315.
+#### [Task72-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/b14a9c9da5d4ae023af8b852855b49c7c9e340cd) Некорректные строки # 1316.
+#### [Task73-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/5d781f583be42c243bfa8b17e3392f859e95c704) Репка # 1327.
+#### [Task74-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/accb065d4daac40c84bb3efbcc79bd0e5c4b76c0) Чтение файла # 1318.
+#### [Task75-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/c82216e97af2546a3331e17f9bf5bdd46153fe82) Писатель в файл с консоли # 1319.
+#### [Task76-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/676ba02f0523f723fdd8fb5b3e55333cc3c8a220) Neo # 1320.
+#### [Task77-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/0e1fbd432161dc63c79c3fab0818d7d4d0cfd749) Исправление ошибок # 1321.
+#### [Task78-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/679033eddc22e8d11584821c96077e444d9f8d2e) Интерфейс SimpleObject # 1322.
+#### [Task79-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/b14786666b671d7426a0eaf2228494d48305ce1f) Интерфейс Updatable в классе Screen # 1323.
+#### [Task80-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/456a5827c265531f1001643bbc6ff82addc16d4b) Один метод в классе # 1324.
+#### [Task81-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/3380297dcd690458e6a0780de633453647d32a65) Компиляция программы # 1325.
+#### [Task82-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/fac2825ee880ed5c5806734399a6d767ed0da94f) Сортировка четных чисел из файла # 1326.
+#### [Task83-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/bf08699b450a6aa69f7a27897cb2433065118041) Репка # 1327.
+#### [Task84-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/d14194d0264763cda51389aa3487235af518eabc) Битва роботов # 1328.
+#### [Task85-->]()
+#### [Task86-->]()
+#### [Task87-->]()
+#### [Task88-->]()
+#### [Task89-->]()
+#### [Task90-->]()
 ____________________________________________________
 ### Level#4 Приведение типов. Instanceoff. Большая задача на интерфейсы:
 ____________________________________________________
