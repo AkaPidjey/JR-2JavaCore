@@ -92,16 +92,66 @@ ____________________________________________________
 #### [Task82-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/fac2825ee880ed5c5806734399a6d767ed0da94f) Сортировка четных чисел из файла # 1326.
 #### [Task83-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/bf08699b450a6aa69f7a27897cb2433065118041) Репка # 1327.
 #### [Task84-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/d14194d0264763cda51389aa3487235af518eabc) Битва роботов # 1328.
-#### [Task85-->]()
-#### [Task86-->]()
-#### [Task87-->]()
-#### [Task88-->]()
-#### [Task89-->]()
-#### [Task90-->]()
 ____________________________________________________
 ### Level#4 Приведение типов. Instanceoff. Большая задача на интерфейсы:
+#### [Task85-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/49963cb5a359533c7591ac8c01e0116f6c46ad66) Bingo! # 1401.
+#### [Task86-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/86c4bcad6d81adaba3e78c1bdfb51cb28fb3ef62) Bingo-2! # 1402.
+#### [Task87-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/ca61c89b6c8a2ea0960293e76df155278de6e820) Building и School # 1403.
+#### [Task88-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/aff6b4aa7907cf26f5b0b28b4ef712f66b0bead2) Коты # 1404.
+#### [Task89-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/732901d53e8118f40ac4478333355bad434fbad6) Food # 1405.
+#### [Task90-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/2b0b4a288e9df8d85d3040575861f094d1410425) Без ошибок # 1406.
+#### [Task91-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/ff69e9162eb78f9155c8f4784b200e9bb2abfdfb) Player and Dancer # 1407.
+#### [Task92-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/2fbadc5f157ffe926b0e965fe7590685776dad3a) Куриная фабрика # 1408.
+#### [Task93-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/6db68b04371625fbed5e3ca1893fae9b29a6c61c) Мосты # 1409.
+#### [Task94-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/8dcb43d2dc0dd403e9f5c1fd48bb48d855d2bc55) Дегустация вин # 1410.
+#### [Task95-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/eafaa64cd3efc5b4a0a25f0b945e2da7d4e789a7) User, Loser, Coder and Proger # 1411.
+#### [Task96-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/65191029efc09cc0ac74705c6eb80da7373b3111) Реализовать метод printMainInfo # 1412.
+#### [Task97-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/5e150ab66bed458dcaf205140b25c7025917db78) Computer # 1413.
+#### [Task98-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/4b2f54cd575eb9a96ca56b71dd63c2445eb63866) MovieFactory # 1414.
+#### [Task99-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/1137b958afa9ad936e45f2815376b470c7983b64) Клининговый центр # 1415.
+#### [Task100-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/db82b2dc00e7ca49b482c96ba33d813ff940080f) Исправление ошибок # 1416.
+#### [Task101-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/a0e8e5a88cb832b6fd4d04b04fc0f30f245ebd3d) Валюты # 1417.
+#### [Task102-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/76465f48aba5fc913d95249939a60c4eee6f62b9) Исправь четыре ошибки # 1418.
+#### [Task103-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/f287c6455e95a8648787f94ff369498c5bb28bcc) Нашествие исключений # 1419.
+#### [Task104-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/3c754b923ed8728c5d710aff37becc46ebaf5905) НОД # 1420.
+#### [Task105-->](https://github.com/AkaPidjey/JR-2JavaCore/commit/a4307999578183b065f1c37b88284f2ba85e70b8) Singleton # 1421.
 ____________________________________________________
 ### Level#5 Перегрузка методов.Особенность вызова конструкторов:
+#### [Task106-->]()
+#### [Task107-->]()
+#### [Task108-->]()
+#### [Task109-->]()
+#### [Task110-->]()
+#### [Task111-->]()
+#### [Task112-->]()
+#### [Task113-->]()
+#### [Task114-->]()
+#### [Task115-->]()
+#### [Task116-->]()
+#### [Task117-->]()
+#### [Task118-->]()
+#### [Task119-->]()
+#### [Task120-->]()
+#### [Task121-->]()
+#### [Task122-->]()
+#### [Task123-->]()
+#### [Task124-->]()
+#### [Task125-->]()
+#### [Task126-->]()
+#### [Task127-->]()
+#### [Task128-->]()
+#### [Task129-->]()
+#### [Task130-->]()
+#### [Task131-->]()
+#### [Task132-->]()
+#### [Task133-->]()
+#### [Task134-->]()
+#### [Task135-->]()
+#### [Task136-->]()
+#### [Task137-->]()
+#### [Task138-->]()
+#### [Task139-->]()
+#### [Task140-->]()
 ____________________________________________________
 ### Level#6 Знакомство с нитями. Therd/Runnable/start/join/interrupt/sleep:
 ____________________________________________________
